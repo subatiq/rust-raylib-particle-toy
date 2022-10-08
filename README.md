@@ -1,5 +1,7 @@
 # Rusty Raylib Particle Toy
 
+![This is an image](https://github.com/subatiq/rust-raylib-particle-toy/blob/main/docs/screenshot.png)
+
 ## Kudos for this thing
 
 Based on the raylib particle toy by codemaker4:
