@@ -19,6 +19,4 @@ cargo run
 
 ### Wanna compiled version?
 
-Here are the binaries:
-
-TODO: Put links to releases
+Look at the releases. More platforms will arrive when I get to it
